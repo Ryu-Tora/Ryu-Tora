@@ -1,5 +1,3 @@
-## Hi there 👋
-
 # Hey there 👋
 
 I'm Adam, a full-stack developer based in Germany.
