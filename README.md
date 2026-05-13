@@ -1,16 +1,31 @@
 ## Hi there 👋
 
-<!--
-**Ryu-Tora/Ryu-Tora** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hey there 👋
 
-Here are some ideas to get you started:
+I'm Adam, a full-stack developer based in Germany.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I build backend systems, APIs, and web applications that are fast, scalable, and clean.
+
+Most of the time I work with Python, FastAPI, Django, JavaScript, Node.js, and React.
+
+I enjoy backend development way more than frontend — designing APIs, working with databases, Docker, and building architecture that actually scales.
+
+Current stack:
+
+* Python
+* FastAPI
+* Django
+* JavaScript
+* Node.js
+* React
+* SQL
+* Docker
+
+Interests:
+
+* Cyberpunk aesthetics
+* Gym
+* Backend engineering
+* APIs & system design
+
+If an idea sounds interesting enough, I’ll probably build it 🚀
